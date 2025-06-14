@@ -8,3 +8,6 @@ obj
 *.vscode
 *.ncrunch*
 *.ncrunchsolution       
+App01/.vs/
+App01/.vs/App01/CopilotIndices/17.14.698.11175/CodeChunks.db
+App01/.vs/ProjectEvaluation/app01.projects.v9.bin
