@@ -1,0 +1,14 @@
+C:\Users\luis\Desktop\netCourse\App01\bin\Debug\net8.0\App01.exe
+C:\Users\luis\Desktop\netCourse\App01\bin\Debug\net8.0\App01.deps.json
+C:\Users\luis\Desktop\netCourse\App01\bin\Debug\net8.0\App01.runtimeconfig.json
+C:\Users\luis\Desktop\netCourse\App01\bin\Debug\net8.0\App01.dll
+C:\Users\luis\Desktop\netCourse\App01\bin\Debug\net8.0\App01.pdb
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.AssemblyInfoInputs.cache
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.AssemblyInfo.cs
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.dll
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\refint\App01.dll
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.pdb
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\App01.genruntimeconfig.cache
+C:\Users\luis\Desktop\netCourse\App01\obj\Debug\net8.0\ref\App01.dll
